@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Shivavarmavanaparthi
-- About me file:///C:/Users/shiva/OneDrive/Desktop/portfolio/index.html#projects
 - 📫 How to reach me >>>Gmail : mailtoshivavarma@gmail.com
 
 <!---
