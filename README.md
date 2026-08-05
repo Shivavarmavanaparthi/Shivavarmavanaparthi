@@ -83,12 +83,6 @@ A Python application for satellite orbit propagation, pass prediction, and inter
 
 ---
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </h3>
