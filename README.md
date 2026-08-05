@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full Stack MERN Developer | Java Backend Developer | Electronics & Communication Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Java+%7C+Spring+Boot+Developer;Full+Stack+Web+Developer;Building+Scalable+Applications;Always+Learning+Something+New+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Java+%7C+Spring+Boot+Developer;Full+Stack+MERN+Developer;Building+Scalable+Applications;Always+Learning+Something+New" />
 </p>
 
 ---
