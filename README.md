@@ -10,7 +10,12 @@
 
 # 💫 About Me
 
-Portfolio:portfolio-orcin-nu-47.vercel.app
+<p align="center">
+  <a href="https://portfolio-orcin-nu-47.vercel.app/">
+    <img src="https://img.shields.io/badge/MyPortfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 
 🎓 B.Tech in Electronics & Communication Engineering
 
