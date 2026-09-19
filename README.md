@@ -9,6 +9,7 @@
 ---
 
 # 💫 About Me
+[![Your GitHub stats](https://vercel.app)](https://github.com/Shivavarmavanaparthi/github-readme-stats)
 
 <p align="center">
   <a href="https://portfolio-orcin-nu-47.vercel.app/">
